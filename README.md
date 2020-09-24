@@ -31,7 +31,7 @@ ffmpeg -version
 
 克隆之后使用`npm`安装依赖模块：
 ```
-git clone https://github.com/develon2015/Youtube-dl-REST.git
+git clone https://github.com/10362227/Youtube-dl-REST.git
 cd Youtube-dl-REST
 npm install
 ```
